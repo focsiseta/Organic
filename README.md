@@ -4,7 +4,7 @@ This project comes from the fact that I wanted to compare C with Rust with more 
 
 Not only in C took less time to write,but also less lines of code and a way more easier aproach to the problem itself
 
-Who the fuck need abstraction btw ?
+Who the fuck needs abstraction btw ?
 
 
 It's pretty simple as now and I know it'll take time,but I want to improve it while keeping it S a n i c.
